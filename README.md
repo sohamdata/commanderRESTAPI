@@ -5,14 +5,11 @@
 ### I made this project for the learning purposes. Concepts learnt:
 > - Intro to Backend Development
 > - Building a REST API
-> - C# Fundamentals
-> - .NET Core
-> - ASP.NET MVC
 > - Architecture of MVC
-> - Entity Framework Core
+> - C# Fundamentals
+> - .NET Core, ASP.NET MVC
 > - Microsoft SQL Server
-> - Postman
-> - Swagger UI
+> - Postman, Swagger UI
 
 
 #### Concepts used:
@@ -26,7 +23,7 @@
 > - EF Core migrations
 > - Data transfer objects (DTOs)
 
-*Note: I've used comments for the purpose of keeping track of what i did and revising later.*
+*Note: I've used comments for the purpose of keeping track of what i did and revising later, they are not intended to be code smells :)*
 
 ### Application Architecture:
 
